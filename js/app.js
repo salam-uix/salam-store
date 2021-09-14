@@ -78,3 +78,6 @@ const updateTotal = () => {
   document.getElementById("total").innerText = grandTotal.toFixed(2);
 };
 loadProducts();
+
+
+// Ball kicu hoccena
