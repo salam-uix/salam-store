@@ -84,12 +84,12 @@ main{
 .cart-main {
   padding-right: 30px;
 }
-button.buy-now-btn{
-  border: 2px solid rgb(90, 90, 90);
+button.buy-now-btn {
+  border: 2px solid rgb(197 197 197);
   background-color: transparent;
   padding: .6rem 1.2rem;
   margin-top: .8rem;
-  color: rgb(90, 90, 90);
+  color: rgb(113 113 113);
   font-weight: 700;
   font-size: 16px;
   transition: color .6s, background-color .6s;
